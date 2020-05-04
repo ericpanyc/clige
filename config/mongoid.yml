@@ -3,7 +3,7 @@ development:
   clients:
     # Defines the default client. (required)
     default:
-      uri: mongodb+srv://eric:Elrik90105!@clustertrgn-u8uvq.azure.mongodb.net/test?retryWrites=true&w=majority
+      uri: mongodb+srv://eric:Elrik90105!@clustertrgn-u8uvq.azure.mongodb.net/clige?retryWrites=true&w=majority
       # Defines the name of the default database that Mongoid can connect to.
       # (required).
       # database: clige_development
